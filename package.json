@@ -1,6 +1,6 @@
 {
   "name": "@lewebsimple/tailwind-active-hover",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Pascal Martineau <pascal@lewebsimple.ca",
   "license": "MIT",
   "main": "src/index.js",
