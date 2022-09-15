@@ -1,0 +1,24 @@
+{
+  "name": "@lewebsimple/tailwind-active-hover",
+  "version": "1.0.0",
+  "author": "Pascal Martineau <pascal@lewebsimple.ca",
+  "license": "MIT",
+  "main": "src/index.js",
+  "types": "src/index.d.ts",
+  "publishConfig": {
+    "access": "public"
+  },
+  "devDependencies": {
+    "@lewebsimple/eslint-config": "^0.5.5",
+    "eslint": "^8.23.1",
+    "postcss": "^8.4.16",
+    "tailwindcss": "^3.1.8",
+    "typescript": "^4.8.3"
+  },
+  "peerDependencies": {
+    "tailwindcss": ">=2.0.0 || >=3.0.0"
+  },
+  "eslintConfig": {
+    "extends": "@lewebsimple/eslint-config"
+  }
+}
